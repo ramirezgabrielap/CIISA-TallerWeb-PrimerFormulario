@@ -1,0 +1,15 @@
+
+body {
+	background-color: #f7fff8;
+}
+
+.bg-greenlight {
+	background-color: #b7e4c7;
+	text-align: center;
+}
+.card-hover:hover {
+	background-color: #b7e4c7;
+}
+input:invalid {
+	border: red solid 1px;
+}
